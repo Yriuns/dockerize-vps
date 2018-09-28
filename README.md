@@ -118,7 +118,7 @@ curl -H "Host: site2.com" localhost
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Site 1</title>
+    <title>Site 2</title>
 </head>
 
 <body>
